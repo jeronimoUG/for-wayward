@@ -1,0 +1,126 @@
+/* BUTTONS */
+/**/
+/* ACTIONS BTN */
+#actions-bnt {
+    cursor: pointer;
+}
+#actions-icon {
+    pointer-events: none;
+}
+#actions-bnt:hover {
+    fill: #4D4D4D;
+}
+#actions-bnt:hover + #actions-icon {
+    fill: #FFFFFF;
+}
+/* INVENTORY BTN */
+#inventory-bnt {
+    cursor: pointer;
+}
+#inventory-icon {
+    pointer-events: none;
+}
+#inventory-bnt:hover {
+    fill: #4D4D4D;
+}
+#inventory-bnt:hover + #inventory-icon {
+    fill: #FFFFFF;
+}
+/* EQUIPMENT BTN */
+#equip-bnt {
+    cursor: pointer;
+}
+#equip-icon {
+    pointer-events: none;
+}
+#equip-bnt:hover {
+    fill: #4D4D4D;
+}
+#equip-bnt:hover + #equip-icon {
+    fill: #FFFFFF;
+}
+/* CRAFTING BTN */
+#craft-bnt {
+    cursor: pointer;
+}
+#craft-icon {
+    pointer-events: none;
+}
+#craft-bnt:hover {
+    fill: #4D4D4D;
+}
+#craft-bnt:hover + #craft-icon {
+    fill: #FFFFFF;
+}
+/* SKILLS BTN */
+#skills-bnt {
+    cursor: pointer;
+}
+#skills-icon {
+    pointer-events: none;
+}
+#skills-bnt:hover {
+    fill: #4D4D4D;
+}
+#skills-bnt:hover + #skills-icon {
+    fill: #FFFFFF;
+}
+/* MILESTONES BTN */
+#milestones-bnt {
+    cursor: pointer;
+}
+#milestones-icon {
+    pointer-events: none;
+}
+#milestones-bnt:hover {
+    fill: #4D4D4D;
+}
+#milestones-bnt:hover + #milestones-icon {
+    fill: #FFFFFF;
+}
+/* MESSAGES BTN */
+#msn-bnt {
+    cursor: pointer;
+}
+#msn-icon {
+    pointer-events: none;
+}
+#msn-bnt:hover {
+    fill: #4D4D4D;
+}
+#msn-bnt:hover + #msn-icon {
+    fill: #FFFFFF;
+}
+/* MAIN MENU BTN */
+#menu-btn {
+    cursor: pointer;
+}
+#menu-btn:hover {
+    fill: #4D4D4D;
+}
+/* HELP BTN */
+#help-btn {
+    cursor: pointer;
+}
+#help-btn:hover {
+    fill: #4D4D4D;
+}
+/* OPTIONS BTN */
+#options-btn {
+    cursor: pointer;
+}
+#options-btn:hover {
+    fill: #4D4D4D;
+}
+/* ATTACK STAT */
+#attack-div {
+    cursor: help;
+}
+/* DEFENSE STAT */
+#defense-div {
+    cursor: help;
+}
+/* NO MOUSE TEXT */
+.no-mouse {
+    pointer-events: none;
+}
